@@ -8,7 +8,7 @@
 <p align="left">
   <a href="https://gonovn.me"><img src="https://img.shields.io/badge/Portfolio-gonovn.me-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/huynhvanvu305/"><img src="https://img.shields.io/badge/LinkedIn-Huỳnh_Văn_Vũ-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:vanvuihuynh705@gmail.com"><img src="https://img.shields.io/badge/Email-vanvuihuynh705@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:vuhv23411@gmail.com"><img src="https://img.shields.io/badge/Email-vuhv23411@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Location-Ho_Chi_Minh_City,_VN-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="Location">
 </p>
 
