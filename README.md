@@ -1,36 +1,57 @@
-# Hi, I'm Huỳnh Văn Vũ 👋
+# Huỳnh Văn Vũ (Gono)
 
-**MarTech · AI-assisted workflows · Data-informed digital products**
+<p align="left">
+  <strong>Applied AI & Systems Engineer | MarTech Architecture</strong><br>
+  <em>Building distributed data systems, edge computing workflows, and production NLP applications.</em>
+</p>
 
-I explore how marketing, data, and software can come together to solve practical problems. My work spans customer-insight dashboards, AI tooling, and digital workflows—from clarifying requirements and building features to integrating and reviewing the result.
+<p align="left">
+  <a href="https://gonovn.me"><img src="https://img.shields.io/badge/Portfolio-gonovn.me-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/huynhvanvu305/"><img src="https://img.shields.io/badge/LinkedIn-Huỳnh_Văn_Vũ-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:vanvuihuynh705@gmail.com"><img src="https://img.shields.io/badge/Email-vanvuihuynh705@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Location-Ho_Chi_Minh_City,_VN-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="Location">
+</p>
 
-## Featured projects
+---
 
-### [PL-Insight Dashboard](https://github.com/gonostudy305/PL-Insight-Dashboard)
-A customer-feedback analytics project that combines a dashboard with Vietnamese sentiment analysis using PhoBERT. I contributed across parts of the interface, backend, and text preprocessing.
+### Core Engineering Focus
 
-`Angular` · `Node.js` · `FastAPI` · `MongoDB` · `PhoBERT`
+I architect and deliver production-grade systems where **Applied AI, distributed data pipelines, and high-performance web products intersect**. My focus is eliminating operational friction by transforming unstructured data into automated business intelligence.
 
-> The AI service requires model weights that are not included in the repository; see the project README for setup.
+- **Applied Machine Learning & NLP**: Production fine-tuning & inference pipelines (PhoBERT, SigLIP2, HuggingFace), vector search engines (`pgvector`), and LLM orchestration (MCP, Agent Workflows).
+- **Backend & Distributed Systems**: Microservices architecture, reverse proxy load balancing (NGINX), asynchronous task queues, and edge workers (Cloudflare Workers, R2, Pages).
+- **Full-Stack & Data Applications**: Angular 19, Next.js 16, TypeScript, Python (FastAPI), MongoDB Atlas, and PostgreSQL.
 
-### [OmniAgent-OS](https://github.com/gonostudy305/omniagent-os)
-A local toolset for organizing skills and configurations across AI coding environments. The project explores inventory, change planning, and managed copies, with some capabilities still in preview or draft.
+---
 
-`Python` · `AI tooling` · `Configuration management`
+### Featured Systems
 
-### [GCN Evidence Review](https://github.com/gonostudy305/gcn-evidence-review)
-A prototype for reviewing certificate images using metadata and comparison with a reference image. It is designed to support human review, not make final authenticity decisions.
+#### [PL-Insight — Customer Sentiment Intelligence Engine](https://github.com/gonostudy305/PL-Insight-Dashboard)
+> *Angular 19 · Node.js · FastAPI · PhoBERT · NGINX · MongoDB Atlas*
+- High-throughput feedback intelligence system mining 6,350+ Google Maps reviews for retail F&B operations.
+- Engineered 4-tier architecture with NGINX round-robin upstream load balancing, isolating heavy transformer inference.
+- Implemented real-time polling monitor and threshold-driven incident alert engine with Telegram push webhooks.
 
-`TypeScript` · `Image metadata` · `Prototype`
+#### [OmniAgent-OS — Local Control Plane for AI Coding Agents](https://github.com/gonostudy305/omniagent-os)
+> *Python · CLI Architecture · Agent Tooling · Configuration Synchronization*
+- Unified local management plane coordinating skills, drift auditing, and memory persistence across autonomous AI agents (Claude Code, OpenAI Codex, Google Antigravity).
+- Solves configuration fragmentation and ensures cross-agent context synchronization.
 
-## What interests me
+#### [Panacea Eco-Resort Booking Platform](https://gonovn.me/panacea-web-portfolio/)
+> *TypeScript · Web & Android Architecture · Rule Engine · Jest*
+- Academic capstone system built at UEL (Information Systems Dept) featuring dynamic room search and an automated guest recommendation engine.
+- [Live Web Showcase](https://gonovn.me/panacea-web-portfolio/) • [Android Mobile Showcase](https://gonovn.me/panacea-mobile-portfolio/)
 
-- **MarTech and automation:** making content and operational workflows easier to manage.
-- **Applied AI:** exploring useful ways to integrate AI tools into everyday work.
-- **Data and product:** turning feedback and business questions into tools people can use.
+---
 
-I enjoy working through the full problem: understanding context, shaping a solution, and improving it through iteration. Some projects are collaborative or developed with AI assistance; their repositories provide more detail about scope and status.
+### Engineering Principles
 
-## Connect
+1. **Failure-First System Design**: Assume network latency, external worker crashes, and missing model artifacts. Always build graceful degradation and fallback pipelines.
+2. **Deterministic Over Magical**: Prioritize reproducible code, explicit type boundaries, and automated regression suites over ad-hoc scripts.
+3. **Evidence-Driven Engineering**: Every performance and accuracy claim must be supported by benchmarks, regression runs, or live demonstrations.
 
-[LinkedIn](https://www.linkedin.com/in/huynhvanvu305/) · [Explore my repositories](https://github.com/gonostudy305?tab=repositories)
+---
+
+### Connect & Collaboration
+
+[LinkedIn Profile](https://www.linkedin.com/in/huynhvanvu305/) • [Portfolio & Case Studies](https://gonovn.me) • [Explore Public Repositories](https://github.com/gonostudy305?tab=repositories)
